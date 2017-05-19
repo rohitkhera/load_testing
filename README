@@ -1,5 +1,5 @@
 
-Spring boot based endpoint for load testing. The endpoint does performs a loop with counter mode encrpyption 
+Spring boot based endpoint for load testing. The endpoint performs counter mode encrpyption in a loop
 
 This repo also contains scripts for building a docker image of the spring app. 
 
