@@ -1,0 +1,7 @@
+---
+applications:
+  - name: cipheringOracle
+    buildpack: java_buildpack
+    instances: 400
+    path: complete/build/libs/gs-pseudoRandomOracle-service-0.1.0.jar
+

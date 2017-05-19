@@ -1,0 +1,21 @@
+
+Spring boot based endpoint for load testing. The endpoint does performs a loop with counter mode encrpyption 
+
+This repo also contains scripts for building a docker image of the spring app. 
+
+The endpoint can be accessed by the following sample URL:
+
+http://pseudorandomoracle.cfapps.io/oracle?plaintexts=e0c10203f40501070d99aa0c00d0890fa0c13203f40501070d99aa0c00d089ff
+
+Instructions:
+
+cd complete ; gradle build
+
+
+
+
+
+
+ 
+
+
